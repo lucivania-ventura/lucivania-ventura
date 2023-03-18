@@ -27,4 +27,4 @@
 </div>
 
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=lucivania-venturarepo=lucivania-ventura&theme=react)](https://github.com/lucivania-ventura/lucivania-ventura)
+(https://github-readme-stats.vercel.app/api/pin/?username=lucivania-venturarepo=lucivania-ventura&theme=react)](https://github.com/lucivania-ventura/lucivania-ventura)
