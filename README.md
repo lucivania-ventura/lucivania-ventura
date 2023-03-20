@@ -1,4 +1,5 @@
-### Hi, I'm Lucivânia Ventura 🚀
+### Hi, I'm Lucivânia Ventura, 🚀
+
 
 
 💻 Análise e Desenvolvimento de Sistemas
@@ -9,14 +10,14 @@
   <a href="https://github.com/lucivania-ventura">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucivania-ventura&layout=compact&langs_count=7&theme=react"/>
 </div><br>
-
+  
 <div style="display: inline_block">
   <img align="center" alt="Lucy-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lucy-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
    <img align="right" alt="Lucy-Gif" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-pessoas-no-computador-6.gif">
-</div><br>
+</div>
 
   ##
  
