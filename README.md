@@ -16,7 +16,7 @@
   <img align="center" alt="Lucy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
    <img align="right" alt="Lucy-Gif" height="150" style="border-radius:50px;" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-pessoas-no-computador-6.gif">
-</div>
+</div><br>
 
   ##
  
@@ -27,4 +27,3 @@
   <a href="https://instagram.com/lucivania_vent" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
   
-![Snake animation](https://github.com/lucivania-ventura/lucivania-ventura/blob/output/github-contribution-grid-snake.svg)
