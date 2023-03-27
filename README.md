@@ -1,10 +1,15 @@
-### Hi, I'm Lucivânia Ventura, 🚀
+### Hi, I'm Lucivânia Ventura🚀
 
 
 
-💻 Análise e Desenvolvimento de Sistemas
+💻 Studying System Analysis and Development, finishing Dec 2023.
 
-📚
+📚 Finished courses through [Alura](https://www.alura.com.br/) platform, focusing on Front End:
+- Programming logic;
+- Git & Github;
+- Computer architecture;
+- HTML & CSS;
+- JavasScript.
 
 <div>
   <a href="https://github.com/lucivania-ventura">
