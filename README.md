@@ -5,7 +5,6 @@
 📚 Specific Skills:
 - Programming logic;
 - Git & Github;
-- Computer architecture;
 - HTML;
 - CSS;
 - SCSS;
@@ -17,10 +16,7 @@
   
   ##
   
-<div>
-  <a href="https://github.com/lucivania-ventura">
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucivania-ventura&layout=compact&langs_count=7&theme=react"/>
-</div><br>
+
   
 <div style="display: inline_block">
   <img align="center" alt="Lucy-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
