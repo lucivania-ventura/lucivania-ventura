@@ -12,8 +12,11 @@
 - Tailwind CSS;
 - Bootstrap;
 - JavasScript;
+- TypeScript;
 - React.js.
+  
   ##
+  
 <div>
   <a href="https://github.com/lucivania-ventura">
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucivania-ventura&layout=compact&langs_count=7&theme=react"/>
@@ -27,6 +30,7 @@
   <img align="center" alt="Lucy-Tailwind" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png">
   <img align="center" alt="Lucy-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lucy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Lucy-Type" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
   <img align="center" alt="Lucy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
   <img align="right" alt="Lucy-Gif" height="150" style="border-radius:50;" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-pessoas-no-computador-6.gif">
 </div>
