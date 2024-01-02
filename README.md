@@ -1,14 +1,16 @@
 ### Hi, I'm Lucivânia Ventura🚀
 
+💻 Front-end developer.
 
-
-💻Front-end developer.
-
-📚 Finished courses through [Alura](https://www.alura.com.br/) platform, focusing on Front End:
+📚 Specific Skills:
 - Programming logic;
 - Git & Github;
 - Computer architecture;
-- HTML & CSS;
+- HTML;
+- CSS;
+- SCSS;
+- Tailwind CSS;
+- Bootstrap;
 - JavasScript;
 - React.js
 
