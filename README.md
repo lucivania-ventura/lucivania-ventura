@@ -28,7 +28,7 @@
   <img align="center" alt="Lucy-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lucy-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucy-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
- 
+  <img align="right" alt="Lucy-Gif" height="150" style="border-radius:50;" src="https://gifs.eco.br/wp-content/uploads/2022/08/gifs-de-pessoas-no-computador-6.gif">
 </div>
 
   ##
