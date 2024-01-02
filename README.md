@@ -2,7 +2,7 @@
 
 
 
-💻 Studying System Analysis and Development, finishing Dec 2023.
+💻Front-end developer.
 
 📚 Finished courses through [Alura](https://www.alura.com.br/) platform, focusing on Front End:
 - Programming logic;
